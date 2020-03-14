@@ -1,2 +1,5 @@
-This project is to classify urban sound through their Mel-frequency cepstral coefficients (MFCCs). The machine learning methods used are linear multi-class SVM and kernelled multi-class SVM. My used urban sound dataset is URBANSOUND8K from the Center for Urban Science and Progress (CUSP) at NYU (https://urbansounddataset.weebly.com/urbansound8k.html). Algorithms are written by numpy instead of calling functions from sklearn directly so that we can understand the whole process better.
+This project is to classify urban sound through their Mel-frequency cepstral coefficients (MFCCs).
+The machine learning methods used are linear multi-class SVM and kernelled multi-class SVM.
+Algorithms are written by numpy instead of calling functions from sklearn directly so that we can understand the whole process better.
+ My used urban sound dataset is URBANSOUND8K from the Center for Urban Science and Progress (CUSP) at NYU.(https://urbansounddataset.weebly.com/urbansound8k.html)
 Thanks for reading!
