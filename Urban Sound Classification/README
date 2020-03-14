@@ -1,5 +1,5 @@
 This project is to classify urban sound through their Mel-frequency cepstral coefficients (MFCCs).
-The machine learning methods used are linear multi-class SVM and kernelled multi-class SVM.
+The machine learning methods used are linear multi-class SVM and kernelized multi-class SVM.
 
 Algorithms are written by numpy instead of calling functions from sklearn directly so that we can understand the whole process better.
 
